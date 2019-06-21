@@ -4,8 +4,6 @@
 
 ## Objectives
 
-1. Learn Typescript:
-
-- What is Typescript and when typescript kicks in.. (fetchjson folder for quick reference)
+1. Learn Typescript:(fetchjson folder)
 
 2. Examples of Typescripts: (features folder)
