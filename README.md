@@ -11,3 +11,11 @@
 3. Tuple
 
 - Array-like structure where each element represents some property of record.
+
+4. Classes
+
+- Blueprint to create an object with some fields and methods to represent a 'thing'
+
+## Applications inside folder
+
+### Maps
