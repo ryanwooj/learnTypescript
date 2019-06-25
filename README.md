@@ -18,4 +18,6 @@
 
 ## Applications inside folder
 
-### Maps
+### Maps (maps folder)
+
+1.  Simple app using Google Maps API to display Marker and data when clicked
